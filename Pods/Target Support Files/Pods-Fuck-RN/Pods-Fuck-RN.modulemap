@@ -1,0 +1,6 @@
+framework module Pods_Fuck_RN {
+  umbrella header "Pods-Fuck-RN-umbrella.h"
+
+  export *
+  module * { export * }
+}
